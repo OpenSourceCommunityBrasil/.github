@@ -24,7 +24,7 @@
     <td><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora"/></a></td>
   </tr>
   <tr>
-    <td width="150px"><img src=""/></td>
+    <td width="150px"><img src="https://github.com/OpenSourceCommunityBrasil/Client-API-GTIN/blob/master/ClientApiGtin/Delphi/imgs/Logo-ApiGtin2.png"/></td>
     <td><a href="https://github.com/OpenSourceCommunityBrasil/Client-API-GTIN">API Gtin</a></td>
     <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/Client-API-GTIN"/></a></td>
     <td><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/Client-API-GTIN"/></a></td>
