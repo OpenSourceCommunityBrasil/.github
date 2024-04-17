@@ -22,18 +22,6 @@
     <td align="center"><a href="https://opencollective.com/opensourcecommunitybrasil/projects/aegys/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   </tr>
   <tr>
-    <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/RscApiCora/blob/main/Assets/logo.png"/></td>
-    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora">RSC API Cora</a></td>
-    <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RscApiCora?label=%20"/></a></td>
-    <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
-    <td align="center" rowspan=2><a href="https://opencollective.com/opensourcecommunitybrasil/projects/api-cora/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
-  <tr>
-    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora">RscApiCora-Demos</a></td>
-    <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RscApiCora-Demos?label=%20"/></a></td>
-    <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora-Demos?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
-  </tr>
-  </tr>
-  <tr>
     <td width="150px"><img src="https://github.com/OpenSourceCommunityBrasil/Client-API-GTIN/blob/master/ClientApiGtin/Delphi/imgs/Logo-ApiGtin2.png"/></td>
     <td><a href="https://github.com/OpenSourceCommunityBrasil/Client-API-GTIN">API Gtin</a></td>
     <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/Client-API-GTIN?label=%20"/></a></td>
@@ -66,7 +54,17 @@
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RDWFiredacDAO?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
     <td align="center"><a href="https://opencollective.com/opensourcecommunitybrasil/projects/rdwfiredacdao/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   </tr>  
-  
+ <tr>
+    <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/RscApiCora/blob/main/Assets/logo.png"/></td>
+    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora">RSC API Cora</a></td>
+    <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RscApiCora?label=%20"/></a></td>
+    <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
+    <td align="center" rowspan=2><a href="https://opencollective.com/opensourcecommunitybrasil/projects/api-cora/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
+  <tr>
+    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora">RscApiCora-Demos</a></td>
+    <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RscApiCora-Demos?label=%20"/></a></td>
+    <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora-Demos?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
+  </tr>  
   <tr>
     <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/TRscPix/blob/main/Componente/Images/TRscPix_200x200.png"/></td>
     <td><a href="https://github.com/OpenSourceCommunityBrasil/TRscPix">TRscPix</a></td>
