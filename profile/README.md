@@ -54,6 +54,13 @@
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RDWDemos?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>    
   </tr>
   <tr>
+    <td width="150px"><img src="https://github.com/OpenSourceCommunityBrasil/.github/blob/master/profile/OSCBr.png"/></td>
+    <td><a href="https://github.com/OpenSourceCommunityBrasil/RDWFiredacDAO">RDWFiredacDAO</a></td>
+    <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RDWFiredacDAO?label=%20"/></a></td>
+    <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RDWFiredacDAO?style=for-the-badge&label=%20&color=%23f0ba18"/></a></td>
+  </tr>  
+  
+  <tr>
     <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/TRscPix/blob/main/Componente/Images/TRscPix_200x200.png"/></td>
     <td><a href="https://github.com/OpenSourceCommunityBrasil/TRscPix">TRscPix</a></td>
     <td><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/TRscPix?label=%20"/></a></td>
