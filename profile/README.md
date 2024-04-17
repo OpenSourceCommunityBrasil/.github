@@ -1,6 +1,8 @@
 <p align="center"><img src="https://github.com/OpenSourceCommunityBrasil/.github/assets/26689802/04da6735-02b2-47df-b53a-34d1a0f5f80a"/></p>
 <a href="https://discord.gg/pS2xjruCJH"><img alt="join Discord" src="https://img.shields.io/discord/918891794597544056?style=flat-square&logo=Discord&logoColor=%23FFFFFF&label=OSCBr"></a>
 
+[▶Políticas de Contribuição com os projetos](CONTRIBUTING.md)
+
 
 # Nossos Projetos:
 
