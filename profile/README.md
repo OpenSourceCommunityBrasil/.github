@@ -1,5 +1,5 @@
 <p align="center"><img src="https://github.com/OpenSourceCommunityBrasil/.github/assets/26689802/04da6735-02b2-47df-b53a-34d1a0f5f80a"/></p>
-<a href="https://discord.gg/pS2xjruCJH"><img alt="join Discord" src="https://img.shields.io/discord/918891794597544056?style=flat-square&logo=Discord&logoColor=%23FFFFFF&label=OSCBr"></a>
+<a href="https://discord.gg/pS2xjruCJH"><img alt="join Discord" src="https://img.shields.io/badge/Discord-%234929ff?style=for-the-badge&logo=discord"></a><a href="https://t.me/oscrbrasil"><img alt="join Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"></a>
 
 [▶Políticas de Contribuição com os projetos](https://github.com/OpenSourceCommunityBrasil/.github/blob/master/profile/CONTRIBUTING.md)
 
