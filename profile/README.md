@@ -1,8 +1,7 @@
 <p align="center"><img src="https://github.com/OpenSourceCommunityBrasil/.github/assets/26689802/04da6735-02b2-47df-b53a-34d1a0f5f80a"/></p>
 <a href="https://discord.gg/pS2xjruCJH"><img alt="join Discord" src="https://img.shields.io/badge/Discord-%234929ff?style=for-the-badge&logo=discord&logoColor=white"></a><a href="https://t.me/OSCBrasil"><img alt="join Telegram" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-[▶Políticas de Contribuição com os projetos](https://github.com/OpenSourceCommunityBrasil/.github/blob/master/profile/CONTRIBUTING.md)
-
+<a href="https://github.com/OpenSourceCommunityBrasil/.github/blob/master/profile/CONTRIBUTING.md"><img alt="como contribuir" src="https://img.shields.io/badge/Como Contribuir-Green?style=for-the-badge&logo=stackshare&logoColor=white"></a>
 
 # Nossos Projetos:
 
