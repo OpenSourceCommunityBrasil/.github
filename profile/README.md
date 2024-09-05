@@ -72,7 +72,7 @@
     <td align="center"><a href="https://opencollective.com/opensourcecommunitybrasil/projects/rscjson/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   </tr>   
   <tr>
-    <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/TRscPix/blob/main/Componente/Images/TRscPix_200x200.png"/></td>
+    <td width="150px" rowspan=2><img src="https://github.com/OpenSourceCommunityBrasil/TRscPix/blob/main/Componente/Assets/TRscPix_200x200.png"/></td>
     <td><a href="https://github.com/OpenSourceCommunityBrasil/TRscPix">TRscPix</a></td>
     <td align=center><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/TRscPix?label=%20&style=plastic"/></a></td>
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/TRscPix?style=plastic&label=%20&color=%23f0ba18"/></a></td>
