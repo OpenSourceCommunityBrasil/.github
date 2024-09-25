@@ -78,7 +78,7 @@
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/TRscPix?style=plastic&label=%20&color=%23f0ba18"/></a></td>
     <td align="center" rowspan=2><a href="https://opencollective.com/opensourcecommunitybrasil/projects/trscpix/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   <tr>
-    <td><a href="https://github.com/OpenSourceCommunityBrasil/TRscPix">TRscPix-Demos</a></td>
+    <td><a href="https://github.com/OpenSourceCommunityBrasil/TRscPix-Demos">TRscPix-Demos</a></td>
     <td align=center><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/TRscPix-Demos?label=%20&style=plastic"/></a></td>
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/TRscPix-Demos?style=plastic&label=%20&color=%23f0ba18"/></a></td>
   </tr>
