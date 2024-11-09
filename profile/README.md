@@ -91,3 +91,7 @@
     <td align="center"><a href="https://opencollective.com/opensourcecommunitybrasil/projects/wbotce/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   </tr>  
 </table>
+
+---
+
+![Metrics](/profile/metrics.svg)
