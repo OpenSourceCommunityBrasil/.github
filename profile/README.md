@@ -72,7 +72,7 @@
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora?style=plastic&label=%20&color=%23f0ba18"/></a></td>
     <td align="center" rowspan=2><a href="https://opencollective.com/opensourcecommunitybrasil/projects/api-cora/donate?interval=oneTime&amount=20&contributeAs=me">❤</a></td>
   <tr>
-    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora">RscApiCora-Demos</a></td>
+    <td><a href="https://github.com/OpenSourceCommunityBrasil/RscApiCora-Demos">RscApiCora-Demos</a></td>
     <td align=center><a href="#"><img src="https://img.shields.io/github/issues/OpenSourceCommunityBrasil/RscApiCora-Demos?label=%20&style=plastic"/></a></td>
     <td align="center"><a href="#"><img src="https://img.shields.io/github/stars/OpenSourceCommunityBrasil/RscApiCora-Demos?style=plastic&label=%20&color=%23f0ba18"/></a></td>
   </tr>  
